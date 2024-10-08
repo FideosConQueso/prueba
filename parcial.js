@@ -3,7 +3,7 @@
 
 
 function calcular(){
-    n1 = Number(prompt ("pone un numer --> "));
+    n1 = milanesas con pure esto es un bug
     n2 = Number(prompt("pone un numer --> "));
     n3 = Number(prompt("pone un numer --> "));
 
